@@ -13,5 +13,6 @@ npm or yarn install
 npm or yarn start
 
 ![image](https://user-images.githubusercontent.com/39957036/109806370-4d77c700-7c2d-11eb-9c15-a6ae0fe27074.png)
+![image](https://user-images.githubusercontent.com/39957036/109806674-a6475f80-7c2d-11eb-9b18-6dd05d47331c.png)
 
 
