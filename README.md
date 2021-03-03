@@ -12,3 +12,6 @@ create env file. copy and past this SKIP_PREFLIGHT_CHECK=true
 npm or yarn install 
 npm or yarn start
 
+![image](https://user-images.githubusercontent.com/39957036/109806370-4d77c700-7c2d-11eb-9c15-a6ae0fe27074.png)
+
+
