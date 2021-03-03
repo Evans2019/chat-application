@@ -1,8 +1,14 @@
-# Realtime Chat Application
+# Realtime Chat Room Application
 
-### [Live Site](https://chat-app-jsmastery.netlify.app)
+This chat room is using react-chat-engine - https://www.npmjs.com/package/react-chat-engine
+The app its connect to https://chatengine.io/, I have created two using at the moment.
 
-![Chat Application](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
+Sign up on https://chatengine.io/
+copy project ID and Past in the app
+Create Two users or more.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
+How to run
+create env file. copy and past this SKIP_PREFLIGHT_CHECK=true 
+npm or yarn install 
+npm or yarn start
+
